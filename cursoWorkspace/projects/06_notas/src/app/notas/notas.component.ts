@@ -63,4 +63,5 @@ export class NotasComponent {
 
     return this.notas.filter(n=>n>=5).length;
   }
+
 }
